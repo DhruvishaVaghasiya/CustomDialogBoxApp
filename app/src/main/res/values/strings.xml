@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDialogBox</string>
+    <string name="dialog_title">Are you sure?</string>
+    <string name="dialog_msg">You wont be able to recover this file!</string>
+</resources>
